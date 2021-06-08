@@ -19,3 +19,5 @@
 # You can also easily run R kernel in Google colab as a new notebook using
 # https://colab.research.google.com/notebook#create=true&language=r
 # This can also be achieved by https://colab.to/r
+
+# Pretty simple but
