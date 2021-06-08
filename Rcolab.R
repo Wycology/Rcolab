@@ -20,4 +20,4 @@
 # https://colab.research.google.com/notebook#create=true&language=r
 # This can also be achieved by https://colab.to/r
 
-# Pretty simple but
+# Pretty simple but hard to install packages 
