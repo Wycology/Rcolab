@@ -7,4 +7,13 @@
 
 # %R library(datasets) This is going to work on one line
 
-# In case you want multiple lines to be executed then use double % like:
+# In case you want multiple lines to be executed then use double %%.
+# Also ensure all the codes are in different lines as that of %%R
+
+
+# %%R
+#  library(datasets)
+#  data(iris)
+#  summary(iris)
+
+
