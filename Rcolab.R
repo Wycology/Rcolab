@@ -1,6 +1,6 @@
 # Created by Wyclife Agumba Oluoch
 # Task: Demosntrate using R within Google Colaboratory    
-# Date
+# Date 8th June 2021
 
 # This is showing how to use R in Google colaboratory
 # Run the following code in the first cell of the google colab
