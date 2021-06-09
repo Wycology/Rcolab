@@ -1,5 +1,5 @@
 # Created by Wyclife Agumba Oluoch
-# Task: Demosntrate using R within Google Colaboratory    
+# Task: Demonstration of using R within Google Colaboratory    
 # Date 8th June 2021
 # Last edited on 9th of June 2021
 
