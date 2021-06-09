@@ -10,7 +10,6 @@
 # In case you want multiple lines to be executed then use double %%.
 # Also ensure all the codes are in different lines as that of %%R
 
-
 # %%R
 #  library(datasets)
 #  data(iris)
