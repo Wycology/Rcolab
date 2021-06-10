@@ -1,4 +1,4 @@
-library(raster)
+library(raster) # For creating 
 library(xlsx)
 
 # I will create three raster files and stack them (to be like worldclim case)
