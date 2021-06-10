@@ -1,5 +1,5 @@
 library(raster) # For creating the raster objects and stacking them 
-library(xlsx)
+library(xlsx) # For handling the workbook and sheets
 
 # I will create three raster files and stack them (to be like worldclim case)
 
