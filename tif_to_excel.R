@@ -1,5 +1,6 @@
 # Task: Extracting raster values and saving them in Excel file as .xlsx
 # Author: Wyclife Agumba Oluoch
+# Contact: wyclifeoluoch@gmail.com
 
 library(raster) # For creating the raster objects and stacking them 
 library(xlsx) # For handling the workbook and excel sheets
