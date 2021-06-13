@@ -4,8 +4,8 @@
 # Date: Created on 13th June 2021
 # Last modified: 
 
-library(raster) # For creating the raster objects and stacking them 
-library(xlsx) # For handling the workbook and excel sheets
+library(raster)     # For creating the raster objects and stacking them 
+library(xlsx)       # For handling the workbook and excel sheets
 
 # I will create three raster files and stack them (to be like worldclim case)
 
