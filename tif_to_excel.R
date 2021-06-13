@@ -2,6 +2,7 @@
 # Author: Wyclife Agumba Oluoch
 # Contact: wyclifeoluoch@gmail.com
 # Date: Created on 13th June 2021
+# Last modified: 
 
 library(raster) # For creating the raster objects and stacking them 
 library(xlsx) # For handling the workbook and excel sheets
