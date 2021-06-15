@@ -37,4 +37,4 @@ stack_to_xlsx <- function(rs, filename) {
 stack_to_xlsx(rs = stacked, filename = 'myxlsx.xlsx')
 
 # Note: The pixels can be too many in case of worldclim data. Kindly consider
-# cropping and masking to your study area before creating an Excel file.
+# cropping and masking to your study area before creating the workbook.
