@@ -28,7 +28,7 @@ stack_to_xlsx <- function(rs, filename) {
     addDataFrame(dr,
                  cs)
   }
-  saveWorkbook(w, filename)
+  saveWorkbook(workbook, filename)
 }
 
 # Then I use the function on my stacked rasters to create a file called myxlsx.xlsx 
