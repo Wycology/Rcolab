@@ -2,8 +2,8 @@
 # Task: Extracting raster values and saving them in Excel file as .xlsx   #
 # Author: Wyclife Agumba Oluoch                                           #
 # Contact: wyclifeoluoch@gmail.com                                        #
-# Date: Created on 15th June 2021                                         #
-# Last modified:                                                          #
+# Date: Created on 13th June 2021                                         #
+# Last modified:   15th June 2021                                         #
 ###########################################################################
 
 library(raster)     # For creating the raster objects and stacking them 
