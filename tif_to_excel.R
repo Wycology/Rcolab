@@ -34,7 +34,7 @@ stack_to_xlsx <- function(rs, filename) {
 # Then I use the function on my stacked rasters to create a file called myxlsx.xlsx 
 # workbook in my working directory
 
-stack_to_xlsx(rs = stacked, 'myxlsx.xlsx')
+stack_to_xlsx(rs = stacked, filename = 'myxlsx.xlsx')
 
 # Note: The pixels can be too many in case of worldclim data. Kindly consider
 # cropping and masking to your study area before creating an Excel file.
