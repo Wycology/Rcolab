@@ -21,7 +21,7 @@ stacked_rasters <- stack(r1, r2, r3)
 # Here I create a function to achieve the job
 
 stack_to_xlsx <- function(rs, filename) {
-  w = createWorkbook()
+  workbook = createWorkbook()
   for (i in 1:nlayers(rs)) {
     cs = createSheet(w, sheetName = paste0("Band-", i))
     dr = raster::as.data.frame(raster::as.matrix(raster(rs, i)))
