@@ -9,7 +9,7 @@
 library(raster)   # For creating the raster objects and stacking them 
 library(xlsx)     # For handling the workbook and excel sheets
 
-# Create three raster files and stack them together
+# Create three raster  and stack them together
 
 r1 <- raster(nrows = 20, ncols = 20) # Creating a simple raster
 r1[] <- rnorm(n = ncell(r1)) # Filling it with random numbers
