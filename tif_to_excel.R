@@ -18,7 +18,7 @@ r3 <- r2 / 13 # Simple math operation on raster (dividing the raster values by 1
 
 stacked_rasters <- stack(r1, 
                          r2, 
-                         r3) # Stack the raster files   
+                         r3) # Stack the raster files together  
 
 # Here I create a function to achieve the job
 
