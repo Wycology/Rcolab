@@ -9,14 +9,16 @@
 library(raster)   # For creating the raster objects and stacking them 
 library(xlsx)     # For handling the workbook and excel sheets
 
-# Create three raster  and stack them together
+# Create three raster and stack them together
 
 r1 <- raster(nrows = 20, ncols = 20) # Creating a simple raster
 r1[] <- rnorm(n = ncell(r1)) # Filling it with random numbers
 r2 <- r1 ^ 2 # Simple math on the raster (raising the values to power of two)
 r3 <- r2 / 13 # Simple math operation on raster (dividing the raster values by 13)
 
-stacked_rasters <- stack(r1, r2, r3)
+stacked_rasters <- stack(r1, 
+                         r2, 
+                         r3)
 
 # Here I create a function to achieve the job
 
