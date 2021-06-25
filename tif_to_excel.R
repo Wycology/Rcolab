@@ -7,7 +7,7 @@
 ###########################################################################
 
 library(raster)   # For creating the raster objects and stacking  
-library(xlsx)     # Forandling the workbook and excel sheets
+library(xlsx)     # Handling the workbook and excel sheets
 
 # Create three raster and stack them together
 
