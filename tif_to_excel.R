@@ -6,7 +6,7 @@
 # Last modified:   25th June 2021                                         #
 ###########################################################################
 
-library(raster)   # For creating the raster objects and stacking them 
+library(raster)   # For creating the raster objects and stacking  
 library(xlsx)     # For handling the workbook and excel sheets
 
 # Create three raster and stack them together
