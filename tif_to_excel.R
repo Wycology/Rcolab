@@ -3,7 +3,7 @@
 # Author: Wyclife Agumba Oluoch                                           #
 # Contact: wyclifeoluoch@gmail.com                                        #
 # Date: Created on 13th June 2021                                         #
-# Last modified:   25th Jan 2021                                         #
+# Last modified:   25th Janu 2021                                         #
 ###########################################################################
 
 library(raster)   # For creating the raster objects and stacking  
